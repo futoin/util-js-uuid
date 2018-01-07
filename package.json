@@ -1,7 +1,7 @@
 {
   "name": "futoin-uuid",
   "version": "0.0.1",
-  "description": "UUID utility",
+  "description": "UUID utility with compact Base64 formatting",
   "main": "UUIDTool.js",
   "engines": {
     "node": ">=6"
