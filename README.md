@@ -6,11 +6,6 @@
 
   [![NPM](https://nodei.co/npm/futoin-uuid.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/futoin-uuid/)
 
-Author: [Andrey Galkin](mailto:andrey@futoin.org)
-
-[Web Site](http://futoin.org/)
-
-
 # About
 
 A primitive wrapper of [uuid](https://www.npmjs.com/package/uuid) package for
@@ -20,6 +15,10 @@ The reason is to get a universal and short UUID representation in printable char
 which can be efficiently used in JSON and databases without special UUID type.
 
 It produces only 22 characters instead of canonical 36 hexdecimal chars with separators.
+
+**Documentation** --> [FutoIn Guide](https://futoin.org/docs/miscjs/uuid/)
+
+Author: [Andrey Galkin](mailto:andrey@futoin.org)
 
 # Installation for Node.js
 
