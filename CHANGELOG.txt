@@ -1,4 +1,4 @@
-=== (next) ===
+=== 1.0.1 (2018-08-11) ===
 CHANGED: dependency maintenance
 
 === 1.0.0 (2018-01-07) ===
