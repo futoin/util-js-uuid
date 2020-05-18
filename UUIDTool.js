@@ -19,7 +19,7 @@
  * limitations under the License.
  */
 
-const uuidv4 = require( 'uuid/v4' );
+const uuidv4 = require( 'uuid' ).v4;
 
 /**
  * Common tool for UUID generation and use in transactions
