@@ -4,7 +4,7 @@
   "description": "UUID utility with compact Base64 formatting",
   "main": "UUIDTool.js",
   "engines": {
-    "node": ">=6"
+    "node": ">=10"
   },
   "scripts": {
     "test": "grunt test"
